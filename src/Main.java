@@ -3,11 +3,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ex1();
-        ex2();
-        ex3();
+//        ex1();
+//        ex2();
+//        ex3();
 //        ex4();
-//        ex5();
+        ex5();
     }
 
 //    ### Exercise 1:
@@ -59,14 +59,16 @@ public class Main {
 ////### Exercise 5:
 ////    Create a program that sends a different function a number, and that function prints out that many “*”.
 //
-//    private static void ex5() {
-//        printStar(21);
-//    }
-//
-//    private static void printStar(int starKount){
-//        for()
-//
-//    }
+    private static void ex5() {
+        printStar(21);
+    }
+
+    private static void printStar(int starKount){
+        for(int z=1; z<=starKount; z++){
+            System.out.println("*");
+        }
+
+    }
 
 
 

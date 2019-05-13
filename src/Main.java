@@ -3,9 +3,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        ex1();
-//        ex2();
-//        ex3();
+        ex1();
+        ex2();
+        ex3();
 //        ex4();
 //        ex5();
     }
@@ -52,21 +52,21 @@ public class Main {
 //    ``` and also how many guesses it took to get it right.
 //    If the Player doesn't get the secret word after 5 tries, end the program and print ```Sorry! Out of guesses :-(```
 
-    private static void ex4() {
-        System.out.println("Enter a secret word");
-    }
-
-//### Exercise 5:
-//    Create a program that sends a different function a number, and that function prints out that many “*”.
-
-    private static void ex5() {
-        printStar(21);
-    }
-
-    private static void printStar(int starKount){
-        for()
-
-    }
+//    private static void ex4() {
+//        System.out.println("Enter a secret word");
+//    }
+//
+////### Exercise 5:
+////    Create a program that sends a different function a number, and that function prints out that many “*”.
+//
+//    private static void ex5() {
+//        printStar(21);
+//    }
+//
+//    private static void printStar(int starKount){
+//        for()
+//
+//    }
 
 
 
